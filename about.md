@@ -7,13 +7,13 @@ title: About
   I read and whine. Ocassionaly write. It's mostly a storm of thoughts that I try to structure and present here in future :)
 </p>
 
-I will try to pain down all the things I'd listed down on my Notion space. I was supposed to give a deep thought but in run-of-a-mill schedule, always fall behind my commitment.
+I will try to pin down all the things I'd listed down on my Notion space. I was supposed to give a deep thought but in run-of-a-mill schedule, fell behind on my commitment.
 
-Professionally - I work as Product Manager in a Series A, fintech startup based out of Gurgaon (currently remote ofcourse). Previously, I had worked in a media tech series D company (now an unicorn) as PM leading a crucial Social products. I purely got lucky there but made most of it :)
+Professionally - I work as Product Manager in a fintech startup based out of Gurgaon (currently remote ofcourse). Previously, I had worked in a media tech company (now an unicorn) as PM leading social products. I purely got lucky there but made most of it :)
 
-Personally - I try to claim as much time as possible so that I don't become a living machine and keep enjoying fiction like I did in school and college while maintaining a healthy mix of non-fiction and gyaan. 
+Personally - I try to claim as much time as possible so that I don't become a living machine and keep enjoying things that keep me sane eg. reading fiction like I did in school and college while maintaining a healthy mix of non-fiction and gyaan. 
 
-Quizzing, random reading on geopolitics is my go to actvity. I love watching new tv shows - mostly feel good ones (think Kim's convinence and Seinfield). I secrelty love romcom but it comes out only on blunt questioning :P
+Quizzing, random reading on geopolitics, finance and humour are my go to actvity. Take pride in watching some not so mainstream shows. I pretend I watch movies but I literally don't.
 
 This site would have two sections:
 1. Personal
