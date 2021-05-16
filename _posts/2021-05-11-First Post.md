@@ -17,30 +17,7 @@ Basically this was the "Startup" scene that had started making big noises - From
 
 ### Wait where does the identity comes in?
 
-We like patterns. We search for them everywhere. We all are Analysts in day to day life.
-> Punjab mail comes late thrice a week, specially on Monday. We'll plan accoridngly.
 
-This insightful line came from my dad, who's nowhere close to Data Analyst but wouldn't you say this is a classic prediction basis historical data, no matter the sophistication!
+So what I have noticed in the recent past is that your identity somehow is very close related to work and that happens more in the context man compare to anyone else the reason being the intense focus someone on that gender is faced in terms of how he is supposed to be the primary breadwinner even though quality Quality has more or less increased yet it's said on the male ego or it's a statement on mail equal that you're not able to on and provide for your family then there is some classic basic
 
-So beating around the bush, this post boils down in the following way: My first place of work - that gave me first glimspe of "work" and how it influence my idea of work life balance, my idea of identity given the usual human interaction, my second job which gave a good perspective and changed some old and so on.
-
-### The first ecounter
-
-The first place that I worked had everything you'd want in a good workplace. Great career path, great manager, awesome projects, steady pay.
-
-But if you're an ambitious 23 yo above average dude. Is your male ego ever <em>satisfied?</em> 
-
-And ofcourse the comparision monkey suddenly wakes up benchmarking me with my friends who frankly are the most pampered of the lot - the scarce <strong>Backend developers</strong>. Can poor PMs even compete with the lot?
-
-Anyway, long story short - desperate to turbo boost my career. I decided to take a plunge in dark alley of early stage startup and that's when things started to change.
-
-
-### The paradox of work-life balance
-
->It's one of those things which you can feel but not notice but when you don't fee it, you do notice.
-
-Things were always rosy in my first stint too but you largely fall in two categories: Either and love, embrace and thriv ein high pressure 24*7 gig or you don't.
-As per my limited 3 years observation - no one thing is better than another, it really depends on individual. 
-
-I personally feel for knowledge work, you need a good 50-50 or 60-40 creativity:hard work ratio. Creativity fosters you to think criticially and seemlessly - best for product and coders alike while hard work is basically your perseverance since most problems won't get solved in 5 min and you've to be at it. Plus the way modern offices and collaborations works is basically you need more documentation and lot of grunt tasks to be done so at a point, it is tranferrable. You can be a mad genuis but you really are on your own while doing the latter part.
-
+Part of it is in bread from the beginning from the childhood a part of it is when you see your friends or your colleagues conversing and you realise how it's very important for everyone to progress professionally because of that what we do we spoke we put our own personal desires on the backburner which leads to more stress eventually because you're not enjoying the difficult things that you enjoyed in the past for example I realise that now I don't feel like reading fiction as much as I would have liked back in my school or college and the reason being that the intense feeling of getting pushed back or getting left behind because and not being up to the speed on the most happening of the day call my domain or product or business and that it leads to more pressure and thereby less balance in terms of all you want to go beyond your work or the kind of work place is also good indicator of how they treat you as an employee but I still think that something which is too far-fetched or too much to expect from workplace anyone who has worked with cofounders who have been a much a balance life has a positive impact on your knowledge for this part creativity part logic so you have to be able to have a good combination of open thinking which is creativity and ability to Grant Road by persevering for the difficult parts of the day it's a documentation for example
