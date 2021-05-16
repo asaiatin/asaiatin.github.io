@@ -4,7 +4,7 @@ title: Anxious People
 ---
 
 
-<strong> Anxious People </strong>
+Anxious People
 By Fredrik Backman
 I really thoughs it's a book with a lot of humour - a wee bit light hearted. But 20% in, defintely is a serial hitter.
 
