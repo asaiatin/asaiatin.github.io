@@ -13,8 +13,8 @@ We started with vice and landed in some random place. Let me strcuture.
 
 I've had a temper since childhood. Maybe because I wasn't a rebellious kid in general but there was just huge dissatisfication and personal expecatation which resulted is bouts of bad mood and ofcourse, bad temper. The receiving end was mostly my parents who - I believe - passed it off as teenage stuff and didn't bother until my mom was also in bad mood and gave a good hearing to me. Rare stuff.
 
-Either way, as I grew up - I started thinking in terms of bets and realised it's not the ideal strategy to be "Angry young man", it works well on popular culture for portrayal of typical mail protagonist et al but in real life, rarely does problem get solved by yelling. You end up alienating a lot of people as well. That's definitly not ideal.
-Hence, out of complusion - I started assesing things more an delayed my response. And it stuck me how often would my reaction or thoughts change once I didn't react immediately and gave it a thought.
+Either way, as I grew up - I started thinking in terms of bets and realised it's not the ideal strategy to be "Angry young man", it works well on popular culture for portrayal of typical male protagonist et al but in real life, rarely does problem get solved by temper. You end up alienating a lot of people as well. That's definitely not ideal.
+Hence, out of complusion - I started assesing things more and delayed my response. And it stuck me how often would my reaction or thoughts change once I didn't react immediately and had a moment to give a  thought or do a retro.
 
 Lot of times, things might have just backfired had I reacted prematurely which would have been case of angry young man!
 
