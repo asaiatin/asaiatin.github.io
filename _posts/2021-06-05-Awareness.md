@@ -22,7 +22,7 @@ You see we have been told to think that <em>on the fly</em>, <em>on the feet</em
 
 Speaking from my personal experience I believe I was ingrained with this on the feet response thingy because the aspirational careers that we see - the civil services, management consulting, investment banking requires you to do that but these are highly specialised fields where you are constantly facing with someone - either your team/senior decision makers,  CEO, or maybe head of institutional fund in which case this might be required but for most of the people, including those who work in knowledge industry - this might just not be required 90% of the time.
 
-Couple of years back, I went through a breakup and one the complaints were - you weren't dissapointed when I told you about incident X. Incident X was an unpleasant incident obv. While I was startled, I deliberately tried NOT to react and say something I'd regret in fit of rage. I stayed mum, listened and proceeded to end the conversation. I always think of it. Was it indeed an issue where what I thought was emotion maturity was regarded as being emotionally distant? 
+Couple of years back, I went through a breakup and one the complaints were - you weren't angry when I told you about incident X. Incident X was an unpleasant incident obv. While I was startled, I deliberately tried NOT to react and say something I'd regret in fit of rage. I stayed mum, listened and proceeded to end the conversation. I always think of it. Was it indeed an issue where what I thought was emotion maturity was regarded as being emotionally distant? 
 
 I contemplated and realised I was actually hurt by the breakup in a startling order, more than I had ever thought. While nothing eased that pain, atleast I know that I'm not the latter :)  
 
@@ -30,7 +30,7 @@ Needless to say - this approach has REALLY helped me in multiple facets speciall
 
 On personal front - it obviously helps you weed out un-necessary people like it did for me :P
 
-All this being said, there's a long way to go. While this is more dominant response in rather "Serious" episodes, say a disaagreement at work, major conflict with friends or partner. For minor scuffle - I still have a mild annoynace or silent treatment which I'd want to completely avoid and maintain a verison of <em> stoicism </em>. I'll update if I make a progress on thsi front :)
+All this being said, there's a long way to go. While this is more dominant response in rather "Serious" episodes, say a disaagreement at work, major conflict with friends or partner. For minor scuffle - I still have a mild annoynace or silent treatment which I'd want to completely avoid and maintain a verison of <em> stoicism </em>. I'll update if I make a progress on this front :)
 
 Cheers!
 
