@@ -34,8 +34,3 @@ All this being said, there's a long way to go. While this is more dominant respo
 
 Cheers!
 - Shobhit
-
-
-
-
-Thanks!
