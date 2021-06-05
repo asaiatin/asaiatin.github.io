@@ -33,4 +33,4 @@ On personal front - it obviously helps you weed out non-necessary people like it
 All this being said, there's a long way to go. While this is more dominant response in rather "Serious" episodes, say a disaagreement at work, major conflict with friends or partner. For minor scuffle - I still have a mild annoynace or silent treatment which I'd want to completely avoid and maintain a verison of <em> stoicism </em>. I'll update if I make a progress on thsi front :)
 
 Cheers!
-- Shobhit
+Shobhit
