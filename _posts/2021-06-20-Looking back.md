@@ -32,7 +32,7 @@ The triggering post in order of anxiety :
 
 Normally - I exasperate for a few days and things settle down. Not this time, some more ancillary things happened, maybe those contributed as well but it's fair to say - I don't have a confident verdict on the MBA thing.
 
-Somewhere deep down, I know Dalan's right. I don't plan to startup. Most people I have asked have given mixed answers and I've mainly fed the answers with confirmation bias to base my decisions and partly how I'm actually a bad rat who has to go through the grunt again, something I feel is not fair. I did awesome work. Let me continue to do so. Why subject me to standardized exam, atrocious grade and classes again :/
+Somewhere deep down, I know Dalan is right. I don't plan to startup. It's tough to get calls from aspirational place. Most people I have asked have given mixed answers and I've mainly fed the answers with confirmation bias to base my decisions and partly how I'm actually a bad rat who has to go through the grunt again, something I feel is not fair. I did awesome work. Let me continue to do so. Why subject me to standardized exam, atrocious grade and classes again :/
 
 All right, rant over. Now, back to tweet - Among all this, I really did lose the plot and felt quiet down the whole week. So this tweet triggered a thought stream that made me realise that I should appreciate what I've done for myself.
 
