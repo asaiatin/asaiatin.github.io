@@ -14,13 +14,15 @@ That however doesn't mean I will ever be content, years of conditioning of worry
 
 And as I recently hit my official milestone of venturing into late 20s - colloquial anxiety has again piqued. It's almost ironical how I took a leave on 15th (Friday) motivated to dedicate the day to self care and ended up partially panicking with writing a note on possible path ahead. This also got amplified by conversation with my folks where I was told to make up my mind on next organic milestone of personal life (read marriage) where principal argument were the "receding market of eligible bachelor" and how this is right age to get settled where I got ambush-advised by multiple unrelated people at random places with advice that I have to admit made sort of sense, bizzarely. And I'm not going to discuss it here, maybe another post.
 
-Anywho - I wrote this post near about August and a lot has happened since then, the tech stock market has virtually crashed. Almost all big tech has had layoffs and Indian companies are following the lead. Economic slowdown was expected, crash was imminent, valuation hit were expected but layoffs are always uncomfortable. Specially  in firms with comfortable FCF and herculean margin. Why would Apple even think of freeze is literally beyond me but it does show that at the end, it's shareholder value that's supreme. No matter your market share or cash!
+Anywho - I wrote this post near about August and a lot has happened since then, the tech stock market has virtually crashed. Almost all big tech has had layoffs and Indian companies are following the lead.
+
+Let's face it - no one thoguht it's sustainable. Post covid boom - Economic slowdown was expected, crash was imminent, valuation hit were expected but layoffs are always uncomfortable. Specially  in firms with comfortable FCF and herculean margin. Why would Apple even think of freeze is literally beyond me but it does show that at the end, it's shareholder value that's supreme. You were chased by recuriter but it was literally free money then so get off high hourse that you're important. No matter your designation of Staff Engineer - ypu're just a number in cost centre side of balance sheet. 
 
 This begs to answer if all we do is even worth it. Let's clarify one thing before venturing deep, which is :
-<h3> Nothing is ever enough </h3>
+<h3> Nothing is ever enough </h3> <br>
 
 Unless you hit a colloquial lottery - you'd almost always be working to next milestone with no FatFire in sight.
-For last decade, the definition of lottery for knowledge worked in tech was :
+For last decade, the definition of lottery for knowledge worker in tech was :
 <ol>
   <li> Joining early stage and hope it becomes big  (High Risk) </li>
   <li> FAANG gig with refreshers (Low risk as liquid and always go up) </li>
