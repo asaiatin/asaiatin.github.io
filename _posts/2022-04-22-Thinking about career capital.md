@@ -16,7 +16,7 @@ And as I recently hit my official milestone of venturing into late 20s - colloqu
 
 Anywho - I wrote this post near about August and a lot has happened since then, the tech stock market has virtually crashed. Almost all big tech has had layoffs and Indian companies are following the lead. Economic slowdown was expected, crash was imminent, valuation hit were expected but layoffs are always uncomfortable. Specially  in firms with comfortable FCF and herculean margin. Why would Apple even think of freeze is literally beyond me but it does show that at the end, it's shareholder value that's supreme. No matter your market share or cash!
 
-This begs to answer if all we do is even worth it. Let's clarify one thing before venturing deep, which is : <br>
+This begs to answer if all we do is even worth it. Let's clarify one thing before venturing deep, which is :
 <h3> Nothing is ever enough </h3>
 
 Unless you hit a colloquial lottery - you'd almost always be working to next milestone with no FatFire in sight.
@@ -33,16 +33,18 @@ Worst part - issuing infite RSU, as it turns out - is not sustainable. Who would
 
 But wait - why are we discussing this? Aren't we supposed to talk about career capital?
 
-Well, my point of coming to this is exactly that. We should not be looking at career in isolation because it's just such a big part of life. We should also not expect any big event to happen - if it does - good riddance but just take life as it is. Importantly - Job, as it is. Give 100% if you like it by trying to excel but probably see it just means to an end and not the whole journey.
+Well, my point of coming to this is exactly that. We should not be looking at career in isolation because it's just such a big part of life.
+<ul>
+<li> We should also not expect any big event to happen - if it does - good riddance but just take life as it is. Importantly - Job, as it is. Give 100% if you like it by trying to excel but probably see it just means to an end and not the whole journey. </li>
 
-Secondly, always know that you're dispensable. Your title, perks, comp mean nothing when push comes to shove. Always be paranoid about this fact which will inturn make you ready to intreview and face the mini crisis of imminent layoff should it happen. Be OK because it really is OK!
+<li>Secondly, always know that you're dispensable. Your title, perks, comp mean nothing when push comes to shove. Always be paranoid about this fact which will inturn make you ready to intreview and face the mini crisis of imminent layoff should it happen. Be OK because it really is OK! </li>
 
-Your credentials matter but more importantly your network - even in that what truly matters - are people you worked with. Not the random person you met on twitter. An ex-colleague referring you to a good gig or calling you to work with him is best possible valdiation you can have. So nurthur relationships and be kind, helpful.
-A smartass with less EQ works well only  in bull market in leadership exclusively.
+<li>Your credentials matter but more importantly your network - even in that what truly matters - are people you worked with. Not the random person you met on twitter. An ex-colleague referring you to a good gig or calling you to work with him is best possible valdiation you can have. So nurture relationships and be kind, helpful.
+A smartass with less EQ works well only  in bull market in leadership exclusively. </li>
 
-Investment are your best friend. It's ok to have aspiration in life and increase your quality of life but with each increase in your comp, the contribution to investement should be more than material things (except for health + food which are never that costly). This will be a cushion you'll be thakful for later in life when you have more reponsibility. Just to calrify - I've moved after from my thought process of going for FIRE because it feels a state of mind, what will you call enough. I'm okay if my interest on investment payout for basic neccessity i.e cost of living at place I choose - maybe UAE, India or UK!
+<li>Investment are your best friend. It's ok to have aspiration in life and increase your quality of life but with each increase in your comp, the contribution to investement should be more than material things (except for health + food which are never that costly). This will be a cushion you'll be thakful for later in life when you have more reponsibility. Just to calrify - I've moved after from my thought process of going for FIRE because it feels a state of mind, what will you call enough. I'm okay if my interest on investment payout for basic neccessity i.e cost of living at place I choose - maybe UAE, India or UK!
 
-In India, that's about 1L/month, in UAE - that's about AED 10K per month. For this, I'd need a corpus of 1.25cr in India and 2.5cr for UAE which is something that's doable with current run-rate of average knowledge worker.
+In India, that's about 1L/month, in UAE - that's about AED 10K per month. For this, I'd need a corpus of 1.25cr in India and 2.5cr for UAE which is something that's doable with current run-rate of average knowledge worker.</li>
 
 I know this is generic advise but try to go through it once and evaluate what is important and doable, your career is important - so is your mental peace, your relationship, your family, your partner and above all you - YOU! If you're not at peace with your life, what shall a VP title do :)
 
