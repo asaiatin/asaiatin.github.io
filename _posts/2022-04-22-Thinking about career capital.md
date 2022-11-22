@@ -16,7 +16,7 @@ And as I recently hit my official milestone of venturing into late 20s - colloqu
 
 Anywho - I wrote this post near about August and a lot has happened since then, the tech stock market has virtually crashed. Almost all big tech has had layoffs and Indian companies are following the lead.
 
-Let's face it - no one thoguht it's sustainable. Post covid boom - Economic slowdown was expected, crash was imminent, valuation hit were expected but layoffs are always uncomfortable. Specially  in firms with comfortable FCF and herculean margin. Why would Apple even think of freeze is literally beyond me but it does show that at the end, it's shareholder value that's supreme. You were chased by recuriter but it was literally free money then so get off high hourse that you're important. No matter your designation of Staff Engineer - ypu're just a number in cost centre side of balance sheet. 
+Let's face it - no one thoguht it's sustainable. Post covid boom - Economic slowdown was expected, crash was imminent, valuation hit were expected but layoffs are always uncomfortable. Specially  in firms with comfortable FCF and herculean margin. Why would Apple even think of freeze is literally beyond me but it does show that at the end, it's shareholder value that's supreme. You were chased by recuriter but it was literally free money then so get off high hourse that you're important. No matter your designation of Staff Engineer - ypu're just a number in cost centre side of balance sheet.
 
 This begs to answer if all we do is even worth it. Let's clarify one thing before venturing deep, which is :
 <h3> Nothing is ever enough </h3> <br>
@@ -47,6 +47,7 @@ A smartass with less EQ works well only  in bull market in leadership exclusivel
 <li>Investment are your best friend. It's ok to have aspiration in life and increase your quality of life but with each increase in your comp, the contribution to investement should be more than material things (except for health + food which are never that costly). This will be a cushion you'll be thakful for later in life when you have more reponsibility. Just to calrify - I've moved after from my thought process of going for FIRE because it feels a state of mind, what will you call enough. I'm okay if my interest on investment payout for basic neccessity i.e cost of living at place I choose - maybe UAE, India or UK!
 
 In India, that's about 1L/month, in UAE - that's about AED 10K per month. For this, I'd need a corpus of 1.25cr in India and 2.5cr for UAE which is something that's doable with current run-rate of average knowledge worker.</li>
+</ul>
 
 I know this is generic advise but try to go through it once and evaluate what is important and doable, your career is important - so is your mental peace, your relationship, your family, your partner and above all you - YOU! If you're not at peace with your life, what shall a VP title do :)
 
