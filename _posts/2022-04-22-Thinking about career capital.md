@@ -2,9 +2,9 @@
 layout: post
 title: Thinking of career capital
 ---
-It's that time of year - when admits to global school start rolling out and a pretentious Linkedin is filled with the posts about folks joining a fancy $100K business school.
+It's that time of year - when admits to B-Schools roll out and a pretentious Linkedin is filled with the posts about folks joining a fancy $100K business school.
 
-And for those not joining a fancy school - there's ofcourse "I'm now a Noogler post". <s> Give a year and FAANG will absorb literally every knowledge worker in India. </s>
+And for those not joining a fancy school - there's of course "I'm now a Noogler post". <s> Give a year and FAANG will absorb literally every knowledge worker in India. </s>
 
 LOL, last statement didn't age well. Thanks to US Federal reserve.
 
@@ -44,7 +44,7 @@ Well, my point of coming to this is exactly that. We should not be looking at ca
 <li>Your credentials matter but more importantly your network - even in that what truly matters - are people you worked with. Not the random person you met on twitter. An ex-colleague referring you to a good gig or calling you to work with him is best possible validation you can have. So nurture relationships and be kind, helpful.
 A smartass with less EQ works well only  in bull market in leadership exclusively. </li>
 
-<li>Investment are your best friend. It's ok to have aspiration in life and increase your quality of life but with each increase in your comp, the contribution to investement should be more than material things (except for health + food which are never that costly). This will be a cushion you'll be thakful for later in life when you have more reponsibility. Just to calrify - I've moved after from my thought process of going for FIRE because it feels a state of mind, what will you call enough. I'm okay if my interest on investment payout for basic neccessity i.e cost of living at place I choose - maybe UAE, India or UK!
+<li>Investment are your best friend. It's ok to have aspiration in life and increase your quality of life but with each increase in your comp, the contribution to investement should be more than material things (except for health + food which are never that costly). This will be a cushion you'll be thankful for later in life when you have more reponsibility. Just to calrify - I've moved after from my thought process of going for FIRE because it feels a state of mind, what will you call enough. I'm okay if my interest on investment payout for basic neccessity i.e cost of living at place I choose - maybe UAE, India or UK!
 
 In India, that's about 1L/month, in UAE - that's about AED 10K per month. For this, I'd need a corpus of 1.25cr in India and 2.5cr for UAE which is something that's doable with current run-rate of average knowledge worker.</li>
 </ul>
