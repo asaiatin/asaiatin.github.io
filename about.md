@@ -9,7 +9,7 @@ title: About
 
 I will try to pin down all the things I'd listed down on my Notion space. I was supposed to give a deep thought but in run-of-a-mill schedule, fell behind on my commitment.
 
-Professionally - I work as Product Manager in a fintech startup based out of Abu Dhabi. Previously, I had worked in a media tech company (now an unicorn) as PM leading social products. I purely got lucky there but made most of it :)
+Professionally - I work as Product Manager at ICC – I know, even I didn’t think it’d have such a role but I somehow landed here. Previously, I had worked in a fintech startup & media tech company (now an unicorn) as PM leading social products. I purely got lucky there but made most of it :)
 
 Personally - I try to claim as much time as possible so that I don't become a living machine and keep enjoying things that keep me sane eg. reading fiction like I did in school and college while maintaining a healthy mix of non-fiction and gyaan.
 
