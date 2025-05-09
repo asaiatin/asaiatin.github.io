@@ -3,10 +3,10 @@ layout: post
 title: Life Lessons (?)
 ---
 
-Yes, There�s a reason I have put a �?� as I�m reasonably confident but still not 100% sure.
+Yes, There's a reason I have put a '?' as I'm reasonably confident but still not 100% sure.
 But then again, can anyone ever be!
 
-So - here�s the first reason, I will probably amend this list going ahead
+So - here's the first reason, I will probably amend this list going ahead
 <UL>
 <li> Seeing your loved ones happy and healthy 
 
