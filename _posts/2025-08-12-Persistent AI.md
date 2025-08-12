@@ -13,6 +13,7 @@ Here's something that drives me crazy about ChatGPT: every conversation begins w
 "Just to give you context, my company..."
 
 It's exhausting. I spend half my time re-teaching the AI who I am, what I'm working on, and what I actually need help with. And then the session ends, and tomorrow? We're back to square one.
+(Yes, I know "projects" and I know I can't always do in those realms@)
 
 But here's the thing - this isn't just annoying, it's completely backwards from how intelligence actually works.
 
@@ -24,9 +25,9 @@ That's about to change with AI, and it's going to be **massive**.
 
 Everyone's obsessing over prompt engineering - finding the magic words to get better AI responses. But honestly? That feels like polishing a fundamentally broken interaction model.
 
-The real shift happening is what I'm calling **context engineering** - building AI systems that maintain persistent, evolving understanding of your actual reality.
+The real shift would be  **context engineering** - Clearly it's been discussed including by Shopify dude - building AI systems that maintain persistent, evolving understanding of your actual reality.
 
-I came across this incredible paper from DeepMind researchers David Silver and Richard Sutton called "The Era of Experience." Their core argument? We're moving from AI that learns from static human data to AI that learns continuously from ongoing experience with the world.
+I came across this interesting chapter from upcoming book from DeepMind researchers David Silver and Richard Sutton called "The Era of Experience." Their core argument? We're moving from AI that learns from static human data to AI that learns continuously from ongoing experience with the world. They have done this RL in DeepMind where the system as whole can potentially think and is not constrained by human data.
 
 And when you combine that with persistent context about your life? That's when things get interesting.
 
@@ -44,7 +45,7 @@ Imagine an AI assistant that genuinely knows:
 
 Not because you told it once, but because it's been paying attention.
 
-This isn't some distant future thing. The technology is basically there - we just need someone to put it together properly.
+This isn't some distant future thing. Humane was a bit ahead of its time but what's to stop someone from using a whoop band of smartphone for repurposing if user consents.
 
 ### 2. AI That Learns From Working With You
 
@@ -115,13 +116,6 @@ Your AI becomes less like a search engine and more like... well, like having a r
 - **Privacy paradox**: The more context you share, the more valuable the AI becomes, but also the more you're locked in
 - **AI relationships**: When your AI assistant knows you better than most humans do, what does that do to human relationships?
 
-## My Take
-
-This connects to something I've written about before - manufacturing luck. You can create opportunities by being relentless, by reaching out directly, by doing the work others won't.
-
-Context engineering is manufacturing luck for AI interactions. Instead of hoping generic AI gives you good results, you're building a system that learns your patterns, understands your context, and actively helps you create better outcomes over time.
-
-The AI becomes your partner in manufacturing luck.
 
 ## The Bottom Line
 
@@ -133,4 +127,3 @@ The era of experience isn't coming - it's here. The question is: who's going to 
 
 ---
 
-*This feels both exciting and slightly terrifying. What do you think - are you ready for AI that knows you as well as your closest friends do?*
