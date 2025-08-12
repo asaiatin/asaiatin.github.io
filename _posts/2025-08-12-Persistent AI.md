@@ -1,9 +1,5 @@
 # Context Engineering X Experience ERA = Persistent AI?
 
-*We're not just getting better chatbots - we're about to get AI that actually remembers who we are*
-
-## Starting From Scratch, Every Single Time
-
 Here's something that drives me crazy about ChatGPT: every conversation begins with me explaining myself all over again. 
 
 "I'm a product manager working on..." 
